@@ -5,7 +5,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/vswteam/laravel-change-password.svg?style=flat-square)](https://packagist.org/packages/vswteam/laravel-change-password)
 
 ```bash
-php artisan password:change --account=<account> --password=<password>
+php artisan password:change <account> <password>
 ```
 
 ## Installation
